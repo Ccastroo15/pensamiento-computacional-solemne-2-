@@ -69,11 +69,14 @@ como explique en la descripcion de mi proyecto tomo inspiracion del Op art y la 
 
 ![image](pensamientoC_solemne2/inspo4.jpg)
 
-a continuacion dejo mi diagrama de flujo que para seguir con la idea de la estilos que escogi lo hice con una estetica parecida a mi proyecto solo que usando mas colores para diferenciar; no tiene tanta informacion porque queria hacerlo algo simple para que se comprendiera con la informacion precisa, y aqui esta mi diagrama de flujo:
+# Diagrama de flujo 
+
+para seguir con la idea de la estilos que escogi lo hice con una estetica parecida a mi proyecto solo que usando mas colores para diferenciar; no tiene tanta informacion porque queria hacerlo algo simple para que se comprendiera con la informacion precisa, y aqui esta mi diagrama de flujo:
 
 ![image](pensamientoC_solemne2/DiagramaDeFlujo.png)
 
-
+y para terminar quiero decir que fue un proyecto desafiante pero entretenido, nos dejo experimentar bastante con la visualidad y eso lo hace entretenido a la hora de hacerlo, puedo decir que disfrute de este desafio y espero que sea del agrado de quien lo vea
+muchas gracias 
 
 
 
