@@ -61,7 +61,7 @@ El sistema responde en tiempo real a las acciones del usuario, generando cambios
 # inspiracion 
 como explique en la descripcion de mi proyecto tomo inspiracion del Op art y la bauhaus, quise combinar ambos estilos para generar algo mas llamativo visualmente, ya que el Op art generalmente es blanco y negro para generar la ilusion optica y la bauhaus usa colores basicos de la paleta y formas basicas, al unir esto llegue a lo que eran estas formas de patron repetitivo que se van moviendo y generando una especia de ilusion, con colores y formas que lo hacen mas llamativo, colorido y dinamico. a continuacion dejo una pequeña galeria de mi inspiracion:
 
-
+! [pensamientoC_solemne2/inspo1.jpg]
 
 
 
